@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/torch",
+  "textures": {
+    "0": "caverns_and_chasms:block/cursed_torch"
+  }
+}
