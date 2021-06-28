@@ -1,10 +1,6 @@
 {
   "pack": {
     "pack_format": 2,
-    "description": "§5Humbanew Explored - A new mode for explore the world. \n§9(MC_1.9-1.10.2)"
-  },
-  "refinedstorage": {
-    "primary_color": 11184810,
-	"secondary_color": 11184810
+    "description": "§5Humbanew Explored - A new mode for explore the world. \n§lRequires Optifine §9(MC_1.9-1.10.2)"
   }
 }
