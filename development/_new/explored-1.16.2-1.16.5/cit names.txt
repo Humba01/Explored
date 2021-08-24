@@ -1,0 +1,13 @@
+Optifine required!
+Rename Elytra to:
+
+	Netherite Elytra
+	Diamond Elytra
+	Iron Elytra
+	Chainmail Elytra
+	Gold Elytra
+	Leather Elytra
+
+Letters are not case sensitive.
+
+:>

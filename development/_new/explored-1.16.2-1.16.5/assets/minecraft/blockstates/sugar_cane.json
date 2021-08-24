@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": 
+	[
+
+{ "model": "block/sugar_cane", "weight":1 },
+{ "model": "block/sugar_cane_leaf", "weight":4 } 
+	]    
+}
+}
+//Made by moon
